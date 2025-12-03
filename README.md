@@ -564,5 +564,11 @@ Si no tienes experiencia previa con React Query, estos recursos te ayudarán:
 - **Tutorial interactivo**: https://tanstack.com/query/latest/docs/react/overview
 - **Ejemplos comunes**: https://tanstack.com/query/latest/docs/react/examples/react/basic
 
+### Entrega del Challenge: Clonado, Repositorio Público y Envío del Link
+
+  - Antes de empezar con el challenge, por favor cloná el proyecto, trabajá sobre una copia en tu entorno local y luego subilo a un repositorio           personal (GitHub o GitLab).
+  - Dejalo configurado como público para que podamos revisarlo sin problemas.
+  - Una vez que lo tengas terminado, envianos el link del repositorio por mail.
+
 ¡Buena suerte! 🚀
 
